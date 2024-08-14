@@ -1,0 +1,4 @@
+-cp src
+-m Main
+--interp
+-D nothreads
