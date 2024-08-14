@@ -1,6 +1,12 @@
 [
     {
         "id":"your webhook id",
-        "token":"your webhook token"
+        "token":"your webhook token",
+        "nohooks": [
+            "imgur",
+            "pastebin",
+            "gyazo",
+            "^^^any of these listed under nohooks will not fire when found."
+        ]
     }
 ]
