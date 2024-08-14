@@ -1,1 +1,4 @@
-bin
+package-lock.json
+node_modules
+hooks.list
+out

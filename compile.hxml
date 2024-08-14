@@ -1,4 +1,0 @@
--cp src
--m Main
---cpp bin/cpp
--D nothreads
